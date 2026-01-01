@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updated": "2026-01-01",
+  "streams": [
+    {
+      "id": "stream1",
+      "title": "Demo HLS",
+      "description": "Testowy stream wideo",
+      "url": "https://example.com/live/playlist.m3u8",
+      "type": "video",
+      "format": "hls"
+    },
+    {
+      "id": "radio1",
+      "title": "Radio Online",
+      "url": "https://example.com/radio.mp3",
+      "type": "audio",
+      "format": "mp3"
+    }
+  ]
+}
