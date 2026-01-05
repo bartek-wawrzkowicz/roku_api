@@ -1,0 +1,29 @@
+{
+    "branding": {
+      "name": "codeodrive",
+      "description": "Information Technologies"
+    },
+    "colors": {
+      "primary": "#FFA68A",
+      "primaryDark": "#E88F74",
+      "secondary": "#FFFFFF",
+      "background": "#4E4A48",
+      "backgroundDark": "#3F3C3A",
+      "surface": "#5A5654",
+      "textPrimary": "#FFFFFF",
+      "textSecondary": "#D6D3D1",
+      "textMuted": "#B0ADAB",
+      "border": "#6A6664",
+      "focus": "#FFA68A",
+      "error": "#D9534F",
+      "success": "#5CB85C"
+    },
+    "roku": {
+      "focusColor": "#FFA68A",
+      "buttonBackground": "#5A5654",
+      "buttonText": "#FFFFFF",
+      "progressBarForeground": "#FFA68A",
+      "progressBarBackground": "#3F3C3A"
+    }
+  }
+  
