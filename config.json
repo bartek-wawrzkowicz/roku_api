@@ -2,20 +2,75 @@
   "version": 1,
   "updated": "2026-01-01",
   "streams": [
-    {
-      "id": "stream1",
-      "title": "Demo HLS",
-      "description": "Testowy stream wideo",
-      "url": "https://example.com/live/playlist.m3u8",
-      "type": "video",
-      "format": "hls"
-    },
-    {
-      "id": "radio1",
-      "title": "Radio Online",
-      "url": "https://example.com/radio.mp3",
-      "type": "audio",
-      "format": "mp3"
-    }
+      {
+        "index": 1,
+        "id": "bbb_dark_truths",
+        "title": "Big Buck Bunny – Dark Truths",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 2,
+        "id": "bbb_sunflower",
+        "title": "Big Buck Bunny – Sunflower",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 3,
+        "id": "sintel_hls",
+        "title": "Sintel – Test Stream",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 4,
+        "id": "tears_of_steel",
+        "title": "Tears of Steel – HLS",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 5,
+        "id": "angel_one",
+        "title": "Angel One – HLS",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 6,
+        "id": "x36xhzz",
+        "title": "x36xhzz – HLS Test",
+        "streamUrl": "https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 7,
+        "id": "envivio_dash_to_hls",
+        "title": "Envivio Sample – HLS",
+        "streamUrl": "https://playertest.longtailvideo.com/adaptive/bbbfull/bbbfull.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 8,
+        "id": "bitmovin_art_of_motion",
+        "title": "Art of Motion – Bitmovin HLS",
+        "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 9,
+        "id": "elephants_dream",
+        "title": "Elephants Dream – HLS",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
+        "format": "hls"
+      },
+      {
+        "index": 10,
+        "id": "bbb_uhd",
+        "title": "Big Buck Bunny – UHD HLS",
+        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
+        "format": "hls"
+      }
   ]
 }
