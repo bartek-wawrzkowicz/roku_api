@@ -7,9 +7,9 @@
   "app": {
     "name": "Codeodrive",
     "logo": {
-      "url": "https://example-cdn.com/assets/logo.png",
-      "width": 512,
-      "height": 512
+      "url": "https://bartek-wawrzkowicz.github.io/roku_api/assets/codeodrive_logo.png",
+      "width": 100,
+      "height": 100
     }
   },
 
