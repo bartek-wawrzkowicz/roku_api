@@ -1,76 +1,141 @@
 {
-  "version": 1,
-  "updated": "2026-01-05",
+  "version": 2,
+  "updated": "2026-01-08",
   "streams": [
-      {
-        "index": 1,
-        "id": "bbb_dark_truths",
-        "title": "Big Buck Bunny – Dark Truths",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 2,
-        "id": "bbb_sunflower",
-        "title": "Big Buck Bunny – Sunflower",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 3,
-        "id": "sintel_hls",
-        "title": "Sintel – Test Stream",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 4,
-        "id": "tears_of_steel",
-        "title": "Tears of Steel – HLS",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 5,
-        "id": "angel_one",
-        "title": "Angel One – HLS",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 6,
-        "id": "x36xhzz",
-        "title": "x36xhzz – HLS Test",
-        "streamUrl": "https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 7,
-        "id": "envivio_dash_to_hls",
-        "title": "Envivio Sample – HLS",
-        "streamUrl": "https://playertest.longtailvideo.com/adaptive/bbbfull/bbbfull.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 8,
-        "id": "bitmovin_art_of_motion",
-        "title": "Art of Motion – Bitmovin HLS",
-        "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 9,
-        "id": "elephants_dream",
-        "title": "Elephants Dream – HLS",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
-        "format": "hls"
-      },
-      {
-        "index": 10,
-        "id": "bbb_uhd",
-        "title": "Big Buck Bunny – UHD HLS",
-        "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
-        "format": "hls"
-      }
+    {
+      "id": "bbb_dark_truths",
+      "title": "Big Buck Bunny – Dark Truths",
+      "description": "A serious documentary about video development.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/dark_truth.png",
+      "tags": ["documentary", "hls"]
+    },
+    {
+      "id": "bbb_sunflower",
+      "title": "Big Buck Bunny – Sunflower",
+      "description": "A lighter version of Big Buck Bunny.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sunflower.png",
+      "tags": ["animation", "hls"]
+    },
+    {
+      "id": "sintel_hls",
+      "title": "Sintel – HLS",
+      "description": "Epic fantasy short film in HLS format.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sintel.png",
+      "tags": ["fantasy", "hls"]
+    },
+    {
+      "id": "sintel_dash",
+      "title": "Sintel – DASH",
+      "description": "Epic fantasy short film in DASH format.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/dash.mpd",
+      "format": "dash",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sintel.png",
+      "tags": ["fantasy", "dash"]
+    },
+    {
+      "id": "tears_of_steel_hls",
+      "title": "Tears of Steel – HLS",
+      "description": "Sci-fi short film in HLS.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/tears_of_steel.png",
+      "tags": ["sci-fi", "hls"]
+    },
+    {
+      "id": "tears_of_steel_mp4",
+      "title": "Tears of Steel – MP4",
+      "description": "Sci-fi short film in MP4 format.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/tears_of_steel_1080p.mp4",
+      "format": "mp4",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/tears_of_steel.png",
+      "tags": ["sci-fi", "mp4"]
+    },
+    {
+      "id": "angel_one_hls",
+      "title": "Angel One – HLS",
+      "description": "Classic movie remastered in HLS.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/angel_one.png",
+      "tags": ["classic", "hls"]
+    },
+    {
+      "id": "elephants_dream_hls",
+      "title": "Elephants Dream – HLS",
+      "description": "Open movie project in HLS.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "tags": ["animation", "hls"]
+    },
+    {
+      "id": "elephants_dream_dash",
+      "title": "Elephants Dream – DASH",
+      "description": "Open movie project in DASH.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/dash.mpd",
+      "format": "dash",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "tags": ["animation", "dash"]
+    },
+    {
+      "id": "bbb_uhd_hls",
+      "title": "Big Buck Bunny – UHD",
+      "description": "Ultra HD version of Big Buck Bunny.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/bbb.png",
+      "tags": ["uhd", "hls"]
+    },
+    {
+      "id": "art_of_motion_hls",
+      "title": "Art of Motion – HLS",
+      "description": "High quality motion demo by Bitmovin.",
+      "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "tags": ["demo", "hls"]
+    },
+    {
+      "id": "art_of_motion_dash",
+      "title": "Art of Motion – DASH",
+      "description": "High quality DASH demo by Bitmovin.",
+      "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/dash/stream.mpd",
+      "format": "dash",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "tags": ["demo", "dash"]
+    },
+    {
+      "id": "akamai_bbb_hls",
+      "title": "Big Buck Bunny – Akamai HLS",
+      "description": "Big Buck Bunny hosted on Akamai.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
+      "format": "hls",
+      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "tags": ["akamai", "hls"]
+    },
+    {
+      "id": "akamai_bbb_dash",
+      "title": "Big Buck Bunny – Akamai DASH",
+      "description": "Big Buck Bunny DASH via Akamai.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+      "format": "dash",
+      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "tags": ["akamai", "dash"]
+    },
+    {
+      "id": "mux_test_hls",
+      "title": "Mux Test Stream",
+      "description": "Public test HLS stream from Mux.",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "format": "hls",
+      "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
+      "tags": ["test", "hls"]
+    }
   ]
 }
