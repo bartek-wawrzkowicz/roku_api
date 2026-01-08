@@ -1,0 +1,18 @@
+{
+    "listId": "list_1",
+    "screen": "HOME_SCREEN",
+    "items": [
+      { "id": "m1", "title": "Action One", "format": "hls", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "thumbnail": "https://picsum.photos/300/200?1" },
+      { "id": "m2", "title": "Action Two", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4", "thumbnail": "https://picsum.photos/300/200?2" },
+      { "id": "m3", "title": "Drama Night", "format": "hls", "url": "https://test-streams.mux.dev/test_001/stream.m3u8", "thumbnail": "https://picsum.photos/300/200?3" },
+      { "id": "m4", "title": "Sci-Fi Run", "format": "dash", "url": "https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd", "thumbnail": "https://picsum.photos/300/200?4" },
+      { "id": "m5", "title": "Comedy Hour", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4", "thumbnail": "https://picsum.photos/300/200?5" },
+      { "id": "m6", "title": "Fast Track", "format": "hls", "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", "thumbnail": "https://picsum.photos/300/200?6" },
+      { "id": "m7", "title": "Mystery Box", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4", "thumbnail": "https://picsum.photos/300/200?7" },
+      { "id": "m8", "title": "City Lights", "format": "dash", "url": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd", "thumbnail": "https://picsum.photos/300/200?8" },
+      { "id": "m9", "title": "Ocean Deep", "format": "hls", "url": "https://mojan.io/hls/sample.m3u8", "thumbnail": "https://picsum.photos/300/200?9" },
+      { "id": "m10", "title": "Final Run", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4", "thumbnail": "https://picsum.photos/300/200?10" },
+      { "id": "m11", "title": "Last Scene", "format": "hls", "url": "https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8", "thumbnail": "https://picsum.photos/300/200?11" }
+    ]
+  }
+  
