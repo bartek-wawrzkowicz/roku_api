@@ -1,6 +1,5 @@
 {
-    "listId": "list_3",
-    "screen": "HOME_SCREEN",
-    "items": []
-  }
-  
+  "listId": "list_3",
+  "screen": "HOME_SCREEN",
+  "streamIds": []
+}
