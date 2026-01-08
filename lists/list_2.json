@@ -1,15 +1,14 @@
 {
-    "listId": "list_2",
-    "screen": "HOME_SCREEN",
-    "items": [
-      { "id": "s1", "title": "Short One", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4", "thumbnail": "https://picsum.photos/300/200?21" },
-      { "id": "s2", "title": "Short Two", "format": "hls", "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8", "thumbnail": "https://picsum.photos/300/200?22" },
-      { "id": "s3", "title": "Short Three", "format": "dash", "url": "https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd", "thumbnail": "https://picsum.photos/300/200?23" },
-      { "id": "s4", "title": "Short Four", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4", "thumbnail": "https://picsum.photos/300/200?24" },
-      { "id": "s5", "title": "Short Five", "format": "hls", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "thumbnail": "https://picsum.photos/300/200?25" },
-      { "id": "s6", "title": "Short Six", "format": "mp4", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4", "thumbnail": "https://picsum.photos/300/200?26" },
-      { "id": "s7", "title": "Short Seven", "format": "dash", "url": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd", "thumbnail": "https://picsum.photos/300/200?27" },
-      { "id": "s8", "title": "Short Eight", "format": "hls", "url": "https://test-streams.mux.dev/test_001/stream.m3u8", "thumbnail": "https://picsum.photos/300/200?28" }
-    ]
-  }
-  
+  "listId": "list_2",
+  "screen": "HOME_SCREEN",
+  "streamIds": [
+    "sintel_dash",
+    "tears_of_steel_mp4",
+    "elephants_dream_dash",
+    "art_of_motion_dash",
+    "akamai_bbb_dash",
+    "mux_test_hls",
+    "bbb_uhd_hls",
+    "angel_one_hls"
+  ]
+}
