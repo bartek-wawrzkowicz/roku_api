@@ -46,20 +46,26 @@
         {
           "id": "list_1",
           "layout": "round",
-          "source": "streams.json",
-          "filter": {
-            "screen": "HOME_SCREEN",
-            "listId": "list_1"
-          }
+          "source": "list_1.json",
+          "screen": "HOME_SCREEN"
         },
         {
           "id": "list_2",
           "layout": "frame",
-          "source": "assets.json",
-          "filter": {
-            "screen": "HOME_SCREEN",
-            "listId": "list_2"
-          }
+          "source": "list_2.json",
+          "screen": "HOME_SCREEN"
+        },
+        {
+          "id": "list_3",
+          "layout": "frame",
+          "source": "list_3.json",
+          "screen": "HOME_SCREEN""
+        },
+        {
+          "id": "list_4",
+          "layout": "frame",
+          "source": "list_4.json",
+          "screen": "HOME_SCREEN"
         }
       ]
     },
