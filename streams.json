@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updated": "2026-01-08",
+  "version": 3,
+  "updated": "2026-01-11",
   "streams": [
     {
       "id": "bbb_dark_truths",
@@ -136,6 +136,108 @@
       "format": "hls",
       "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
       "tags": ["test", "hls"]
+    },
+    {
+      "id": "sintel_poster_relax",
+      "title": "Sintel – Relaxing Poster",
+      "description": "Alternate Sintel artwork for preview.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
+      "tags": ["fantasy", "poster"]
+    },
+    {
+      "id": "bbb_landscape",
+      "title": "Big Buck Bunny – Landscape",
+      "description": "Landscape view from Big Buck Bunny.", 
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buck_Bunny_-_Landscape.png",
+      "tags": ["landscape", "hls"]
+    },
+    {
+      "id": "bbb_character",
+      "title": "Big Buck Bunny – Character Shot",
+      "description": "Character view from the anime short.", 
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/51/Big_Buck_Bunny_-_Bunny_Portrait.png",
+      "tags": ["character", "hls"]
+    },
+    {
+      "id": "tears_of_steel_scene",
+      "title": "Tears of Steel – Scene",
+      "description": "A high-res still from Tears of Steel.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
+      "tags": ["sci-fi", "still"]
+    },
+    {
+      "id": "tears_of_steel_robots",
+      "title": "Tears of Steel – Robots",
+      "description": "Tears of Steel promotional frame.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
+      "tags": ["robots", "hls"]
+    },
+    {
+      "id": "angel_one_sky",
+      "title": "Angel One – Sky Scene",
+      "description": "Promo image of Angel One.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/angel_one.png",
+      "tags": ["space", "hls"]
+    },
+    {
+      "id": "elephants_dream_closeup",
+      "title": "Elephants Dream – Closeup",
+      "description": "Elephants Dream frame close-up.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
+      "tags": ["animation", "still"]
+    },
+    {
+      "id": "elephants_dream_night",
+      "title": "Elephants Dream – Night Variant",
+      "description": "Night scene from Elephants Dream.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
+      "tags": ["animation", "night"]
+    },
+    {
+      "id": "bitmovin_motion_test",
+      "title": "Bitmovin Motion Test",
+      "description": "Alternate art for Bitmovin test streams.",
+      "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "tags": ["demo", "test"]
+    },
+    {
+      "id": "akamai_bbb_poster",
+      "title": "Akamai – BBB Poster",
+      "description": "Poster style image for BBB Akamai.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
+      "format": "hls",
+      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "tags": ["poster", "akamai"]
+    },
+    {
+      "id": "mux_test_art",
+      "title": "Mux Test Art",
+      "description": "Graphic art for mux test stream.",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "format": "hls",
+      "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
+      "tags": ["test", "art"]
     }
+  ]
+}
+
   ]
 }
