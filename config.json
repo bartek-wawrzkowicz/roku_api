@@ -13,28 +13,32 @@
   "menu": {
     "items": [
       {
-        "id": "home",
-        "type": "screen",
-        "label": "Home",
-        "screenId": "HOME_SCREEN"
-      },
-      {
         "id": "search",
         "type": "screen",
         "label": "Search",
-        "screenId": "SEARCH_SCREEN"
+        "screenId": "SEARCH_SCREEN",
+        "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/search.png"
+      },
+      {
+        "id": "home",
+        "type": "screen",
+        "label": "Home",
+        "screenId": "HOME_SCREEN",
+        "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/home.png"
       },
       {
         "id": "settings",
         "type": "screen",
         "label": "Settings",
-        "screenId": "SETTINGS_SCREEN"
+        "screenId": "SETTINGS_SCREEN",
+        "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/settings.png"
       },
       {
         "id": "external_help",
         "type": "link",
         "label": "Help",
-        "url": "https://example.com/help"
+        "url": "https://example.com/help",
+        "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/help.png"
       }
     ]
   },
