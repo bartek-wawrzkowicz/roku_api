@@ -1,243 +1,136 @@
 {
-  "version": 3,
-  "updated": "2026-01-11",
+  "version": 4,
+  "updated": "2026-01-08",
   "streams": [
     {
       "id": "bbb_dark_truths",
-      "title": "Big Buck Bunny – Dark Truths",
+      "title": "Big Buck Bunny \u2013 Dark Truths",
       "description": "A serious documentary about video development.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/dark_truth.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Big_Buck_Bunny_thumbnail_vlc.png",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buck_Bunny_-_Landscape.png",
       "tags": ["documentary", "hls"]
     },
     {
       "id": "bbb_sunflower",
-      "title": "Big Buck Bunny – Sunflower",
+      "title": "Big Buck Bunny \u2013 Sunflower",
       "description": "A lighter version of Big Buck Bunny.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sunflower.png",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/5/51/Big_Buck_Bunny_-_Bunny_Portrait.png",
       "tags": ["animation", "hls"]
     },
     {
       "id": "sintel_hls",
-      "title": "Sintel – HLS",
+      "title": "Sintel \u2013 HLS",
       "description": "Epic fantasy short film in HLS format.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sintel.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sintel_film_screenshot.jpg",
       "tags": ["fantasy", "hls"]
     },
     {
       "id": "sintel_dash",
-      "title": "Sintel – DASH",
+      "title": "Sintel \u2013 DASH",
       "description": "Epic fantasy short film in DASH format.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/dash.mpd",
       "format": "dash",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sintel.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sintel_film_screenshot.jpg",
       "tags": ["fantasy", "dash"]
     },
     {
       "id": "tears_of_steel_hls",
-      "title": "Tears of Steel – HLS",
+      "title": "Tears of Steel \u2013 HLS",
       "description": "Sci-fi short film in HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/tears_of_steel.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tears_of_Steel_film_scene.jpg",
       "tags": ["sci-fi", "hls"]
     },
     {
       "id": "tears_of_steel_mp4",
-      "title": "Tears of Steel – MP4",
-      "description": "Sci-fi short film in MP4 format.",
+      "title": "Tears of Steel \u2013 MP4",
+      "description": "Sci-fi short film in MP4.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/tears_of_steel_1080p.mp4",
       "format": "mp4",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/tears_of_steel.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tears_of_Steel_film_scene.jpg",
       "tags": ["sci-fi", "mp4"]
     },
     {
-      "id": "angel_one_hls",
-      "title": "Angel One – HLS",
-      "description": "Classic movie remastered in HLS.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/angel_one.png",
-      "tags": ["classic", "hls"]
-    },
-    {
       "id": "elephants_dream_hls",
-      "title": "Elephants Dream – HLS",
+      "title": "Elephants Dream \u2013 HLS",
       "description": "Open movie project in HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Elephants_Dream_film_still.jpg",
       "tags": ["animation", "hls"]
     },
     {
       "id": "elephants_dream_dash",
-      "title": "Elephants Dream – DASH",
+      "title": "Elephants Dream \u2013 DASH",
       "description": "Open movie project in DASH.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/dash.mpd",
       "format": "dash",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Elephants_Dream_film_still.jpg",
       "tags": ["animation", "dash"]
     },
     {
       "id": "bbb_uhd_hls",
-      "title": "Big Buck Bunny – UHD",
-      "description": "Ultra HD version of Big Buck Bunny.",
+      "title": "Big Buck Bunny \u2013 UHD",
+      "description": "Ultra HD version HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/bbb.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Big_Buck_Bunny_thumbnail_vlc.png",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buck_Bunny_-_Landscape.png",
       "tags": ["uhd", "hls"]
     },
     {
       "id": "art_of_motion_hls",
-      "title": "Art of Motion – HLS",
+      "title": "Art of Motion \u2013 HLS",
       "description": "High quality motion demo by Bitmovin.",
       "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
       "format": "hls",
       "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Abstract_motion_background.jpg",
       "tags": ["demo", "hls"]
     },
     {
-      "id": "art_of_motion_dash",
-      "title": "Art of Motion – DASH",
-      "description": "High quality DASH demo by Bitmovin.",
-      "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/dash/stream.mpd",
-      "format": "dash",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
-      "tags": ["demo", "dash"]
-    },
-    {
-      "id": "akamai_bbb_hls",
-      "title": "Big Buck Bunny – Akamai HLS",
-      "description": "Big Buck Bunny hosted on Akamai.",
-      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
-      "format": "hls",
-      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "tags": ["akamai", "hls"]
-    },
-    {
-      "id": "akamai_bbb_dash",
-      "title": "Big Buck Bunny – Akamai DASH",
-      "description": "Big Buck Bunny DASH via Akamai.",
-      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
-      "format": "dash",
-      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "tags": ["akamai", "dash"]
-    },
-    {
-      "id": "mux_test_hls",
-      "title": "Mux Test Stream",
-      "description": "Public test HLS stream from Mux.",
+      "id": "cinematic_sky_hls",
+      "title": "Cinematic Sky",
+      "description": "Beautiful cinematic sky footage.",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
-      "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
-      "tags": ["test", "hls"]
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sky_clouds.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cloudscape_sunset.jpg",
+      "tags": ["nature", "hls"]
     },
     {
-      "id": "sintel_poster_relax",
-      "title": "Sintel – Relaxing Poster",
-      "description": "Alternate Sintel artwork for preview.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
-      "tags": ["fantasy", "poster"]
-    },
-    {
-      "id": "bbb_landscape",
-      "title": "Big Buck Bunny – Landscape",
-      "description": "Landscape view from Big Buck Bunny.", 
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buck_Bunny_-_Landscape.png",
-      "tags": ["landscape", "hls"]
-    },
-    {
-      "id": "bbb_character",
-      "title": "Big Buck Bunny – Character Shot",
-      "description": "Character view from the anime short.", 
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/51/Big_Buck_Bunny_-_Bunny_Portrait.png",
-      "tags": ["character", "hls"]
-    },
-    {
-      "id": "tears_of_steel_scene",
-      "title": "Tears of Steel – Scene",
-      "description": "A high-res still from Tears of Steel.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
-      "tags": ["sci-fi", "still"]
-    },
-    {
-      "id": "tears_of_steel_robots",
-      "title": "Tears of Steel – Robots",
-      "description": "Tears of Steel promotional frame.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
-      "tags": ["robots", "hls"]
-    },
-    {
-      "id": "angel_one_sky",
-      "title": "Angel One – Sky Scene",
-      "description": "Promo image of Angel One.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/angel_one.png",
-      "tags": ["space", "hls"]
-    },
-    {
-      "id": "elephants_dream_closeup",
-      "title": "Elephants Dream – Closeup",
-      "description": "Elephants Dream frame close-up.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
-      "tags": ["animation", "still"]
-    },
-    {
-      "id": "elephants_dream_night",
-      "title": "Elephants Dream – Night Variant",
-      "description": "Night scene from Elephants Dream.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
-      "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
-      "tags": ["animation", "night"]
-    },
-    {
-      "id": "bitmovin_motion_test",
-      "title": "Bitmovin Motion Test",
-      "description": "Alternate art for Bitmovin test streams.",
-      "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
-      "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
-      "tags": ["demo", "test"]
-    },
-    {
-      "id": "akamai_bbb_poster",
-      "title": "Akamai – BBB Poster",
-      "description": "Poster style image for BBB Akamai.",
-      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
-      "format": "hls",
-      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
-      "tags": ["poster", "akamai"]
-    },
-    {
-      "id": "mux_test_art",
-      "title": "Mux Test Art",
-      "description": "Graphic art for mux test stream.",
+      "id": "city_night_hls",
+      "title": "City at Night",
+      "description": "Urban night skyline footage.",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
-      "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
-      "tags": ["test", "art"]
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5c/City_night_lights.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/0/0b/City_skyline_night.jpg",
+      "tags": ["city", "hls"]
+    },
+    {
+      "id": "mountain_sunrise_hls",
+      "title": "Mountain Sunrise",
+      "description": "Sunrise in the mountains.",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "format": "hls",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain_sunrise.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mountain_sunrise_landscape.jpg",
+      "tags": ["nature", "hls"]
     }
-  ]
-}
-
   ]
 }
