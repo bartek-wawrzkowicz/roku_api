@@ -17,6 +17,7 @@
         "type": "screen",
         "label": "Search",
         "screenId": "SEARCH_SCREEN",
+        "screen": "SearchScreen",
         "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/search.png"
       },
       {
@@ -24,6 +25,7 @@
         "type": "screen",
         "label": "Home",
         "screenId": "HOME_SCREEN",
+        "screen": "HomeScreen",
         "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/home.png"
       },
       {
@@ -31,6 +33,7 @@
         "type": "screen",
         "label": "Settings",
         "screenId": "SETTINGS_SCREEN",
+        "screen": "SettingsScreen",
         "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/settings.png"
       },
       {
@@ -38,6 +41,8 @@
         "type": "link",
         "label": "Help",
         "url": "https://example.com/help",
+        "screenId": "",
+        "screen": "",
         "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/help.png"
       }
     ]
