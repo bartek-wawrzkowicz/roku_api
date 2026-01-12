@@ -9,7 +9,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Big_Buck_Bunny_thumbnail_vlc.png",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buck_Bunny_-_Landscape.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["documentary", "hls"]
     },
     {
@@ -19,7 +19,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sunflower.png",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/5/51/Big_Buck_Bunny_-_Bunny_Portrait.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["animation", "hls"]
     },
     {
@@ -29,7 +29,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sintel_film_screenshot.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "tags": ["fantasy", "hls"]
     },
     {
@@ -39,7 +39,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/dash.mpd",
       "format": "dash",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sintel_film_screenshot.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "tags": ["fantasy", "dash"]
     },
     {
@@ -49,7 +49,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tears_of_Steel_film_scene.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "tags": ["sci-fi", "hls"]
     },
     {
@@ -59,7 +59,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/tears_of_steel_1080p.mp4",
       "format": "mp4",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tears_of_Steel_film_scene.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "tags": ["sci-fi", "mp4"]
     },
     {
@@ -69,7 +69,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Elephants_Dream_film_still.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["animation", "hls"]
     },
     {
@@ -79,7 +79,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/dash.mpd",
       "format": "dash",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Elephants_Dream_film_still.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["animation", "dash"]
     },
     {
@@ -89,7 +89,7 @@
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Big_Buck_Bunny_thumbnail_vlc.png",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/2/24/Big_Buck_Bunny_-_Landscape.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "tags": ["uhd", "hls"]
     },
     {
@@ -99,7 +99,7 @@
       "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
       "format": "hls",
       "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Abstract_motion_background.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "tags": ["demo", "hls"]
     },
     {
@@ -109,7 +109,7 @@
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sky_clouds.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cloudscape_sunset.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "tags": ["nature", "hls"]
     },
     {
@@ -119,7 +119,7 @@
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5c/City_night_lights.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/0/0b/City_skyline_night.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "tags": ["city", "hls"]
     },
     {
@@ -129,8 +129,88 @@
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain_sunrise.jpg",
-      "background": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mountain_sunrise_landscape.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["nature", "hls"]
+    },
+    {
+      "id": "angel_one_hls",
+      "title": "Angel One – HLS",
+      "description": "Classic movie remastered in HLS.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/angel_one.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
+      "tags": ["classic", "hls"]
+    },
+    {
+      "id": "elephants_dream_hls",
+      "title": "Elephants Dream – HLS",
+      "description": "Open movie project in HLS.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
+      "tags": ["animation", "hls"]
+    },
+    {
+      "id": "elephants_dream_dash",
+      "title": "Elephants Dream – DASH",
+      "description": "Open movie project in DASH.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/dash.mpd",
+      "format": "dash",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
+      "tags": ["animation", "dash"]
+    },
+    {
+      "id": "bbb_uhd_hls",
+      "title": "Big Buck Bunny – UHD",
+      "description": "Ultra HD version of Big Buck Bunny.",
+      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
+      "format": "hls",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/bbb.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
+      "tags": ["uhd", "hls"]
+    },
+    {
+      "id": "art_of_motion_dash",
+      "title": "Art of Motion – DASH",
+      "description": "High quality DASH demo by Bitmovin.",
+      "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/dash/stream.mpd",
+      "format": "dash",
+      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
+      "tags": ["demo", "dash"]
+    },
+    {
+      "id": "akamai_bbb_hls",
+      "title": "Big Buck Bunny – Akamai HLS",
+      "description": "Big Buck Bunny hosted on Akamai.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
+      "format": "hls",
+      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
+      "tags": ["akamai", "hls"]
+    },
+    {
+      "id": "akamai_bbb_dash",
+      "title": "Big Buck Bunny – Akamai DASH",
+      "description": "Big Buck Bunny DASH via Akamai.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+      "format": "dash",
+      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
+      "tags": ["akamai", "dash"]
+    },
+    {
+      "id": "mux_test_hls",
+      "title": "Mux Test Stream",
+      "description": "Public test HLS stream from Mux.",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "format": "hls",
+      "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
+      "tags": ["test", "hls"]
     }
   ]
 }
