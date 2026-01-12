@@ -87,6 +87,11 @@
     "SETTINGS_SCREEN": {
       "type": "settings",
       "enabled": true
+    },
+
+    "HELP_SCREEN": {
+      "type": "help",
+      "enabled": true
     }
   },
 
