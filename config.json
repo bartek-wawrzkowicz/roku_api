@@ -41,8 +41,8 @@
         "type": "link",
         "label": "Help",
         "url": "https://example.com/help",
-        "screenId": "",
-        "screen": "",
+        "screenId": "HELP_SCREEN",
+        "screen": "HelpScreen",
         "icon": "https://bartek-wawrzkowicz.github.io/roku_api/assets/icons/help.png"
       }
     ]
