@@ -19,7 +19,7 @@
       "focus": "#FFA68A",
       "error": "#D9534F",
       "success": "#5CB85C",
-      "black": "#000000",
+      "black": "#000000"
     },
     "roku": {
       "focusColor": "#FFA68A",
