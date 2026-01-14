@@ -11,6 +11,10 @@
   },
 
   "menu": {
+    "width": {
+      "open": 360,
+      "closed": 168
+    },
     "items": [
       {
         "id": "search",
