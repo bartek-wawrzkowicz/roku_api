@@ -51,6 +51,7 @@
   "screens": {
     "HOME_SCREEN": {
       "type": "home",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/screens/{0}/home.png",
       "lists": [
         {
           "id": "list_1",
@@ -81,16 +82,19 @@
 
     "SEARCH_SCREEN": {
       "type": "search",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/screens/{0}/search.png",
       "enabled": true
     },
 
     "SETTINGS_SCREEN": {
       "type": "settings",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/screens/{0}/settings.png",
       "enabled": true
     },
 
     "HELP_SCREEN": {
       "type": "help",
+      "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/screens/{0}/help.png",
       "enabled": true
     }
   },
