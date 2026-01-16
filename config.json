@@ -90,6 +90,7 @@
 
     "SETTINGS_SCREEN": {
       "type": "settings",
+      "footerText": "© Codeodrive. All rights reserved.",
       "enabled": true
     },
 
