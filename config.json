@@ -15,6 +15,7 @@
       "open": 400,
       "closed": 168
     },
+    
     "items": [
       {
         "id": "search",
@@ -102,5 +103,29 @@
   "features": {
     "searchEnabled": true,
     "settingsEnabled": true
+  },
+
+  "lists": {
+    "leftMargin": 220,
+    "lists": {
+        "banner": {
+            "width": 1635,
+            "height": 404,
+            "itemsSpacing": 15,
+            "bottomMargin": 65
+        },
+        "frame": {
+            "width": 312,
+            "height": 177,
+            "itemsSpacing": 24,
+            "bottomMargin": 34
+        },
+        "round": {
+            "width": 250,
+            "height": 250,
+            "itemsSpacing": 10,
+            "bottomMargin": -15
+        }
+    }
   }
 }
