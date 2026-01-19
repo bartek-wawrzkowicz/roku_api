@@ -8,7 +8,7 @@
       "description": "A serious documentary about video development.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-dark-truths-hls/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Big_Buck_Bunny_thumbnail_vlc.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["documentary", "hls"]
     },
@@ -18,7 +18,7 @@
       "description": "A lighter version of Big Buck Bunny.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/sunflower.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["animation", "hls"]
     },
@@ -28,7 +28,7 @@
       "description": "Epic fantasy short film in HLS format.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "tags": ["fantasy", "hls"]
     },
@@ -38,7 +38,7 @@
       "description": "Epic fantasy short film in DASH format.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/dash.mpd",
       "format": "dash",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sintel_poster.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "tags": ["fantasy", "dash"]
     },
@@ -48,7 +48,7 @@
       "description": "Sci-fi short film in HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "tags": ["sci-fi", "hls"]
     },
@@ -58,7 +58,7 @@
       "description": "Sci-fi short film in MP4.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/tears-of-steel/tears_of_steel_1080p.mp4",
       "format": "mp4",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tears_of_Steel_poster.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "tags": ["sci-fi", "mp4"]
     },
@@ -68,7 +68,7 @@
       "description": "Open movie project in HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["animation", "hls"]
     },
@@ -78,7 +78,7 @@
       "description": "Open movie project in DASH.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/dash.mpd",
       "format": "dash",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Elephants_Dream_s1_proog.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["animation", "dash"]
     },
@@ -88,7 +88,7 @@
       "description": "Ultra HD version HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/90/Big_Buck_Bunny_thumbnail_vlc.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "tags": ["uhd", "hls"]
     },
@@ -98,7 +98,7 @@
       "description": "High quality motion demo by Bitmovin.",
       "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/hls/playlist.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "tags": ["demo", "hls"]
     },
@@ -108,7 +108,7 @@
       "description": "Beautiful cinematic sky footage.",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sky_clouds.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "tags": ["nature", "hls"]
     },
@@ -118,7 +118,7 @@
       "description": "Urban night skyline footage.",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5c/City_night_lights.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "tags": ["city", "hls"]
     },
@@ -128,7 +128,7 @@
       "description": "Sunrise in the mountains.",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mountain_sunrise.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["nature", "hls"]
     },
@@ -138,7 +138,7 @@
       "description": "Classic movie remastered in HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/angel-one/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/angel_one.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["classic", "hls"]
     },
@@ -148,7 +148,7 @@
       "description": "Open movie project in HLS.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "tags": ["animation", "hls"]
     },
@@ -158,7 +158,7 @@
       "description": "Open movie project in DASH.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/elephants-dream/dash.mpd",
       "format": "dash",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/elephants_dream.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field_2.png",
       "tags": ["animation", "dash"]
     },
@@ -168,7 +168,7 @@
       "description": "Ultra HD version of Big Buck Bunny.",
       "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
       "format": "hls",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/bbb.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "tags": ["uhd", "hls"]
     },
@@ -178,7 +178,7 @@
       "description": "High quality DASH demo by Bitmovin.",
       "streamUrl": "https://bitmovin-a.akamaihd.net/content/art-of-motion/dash/stream.mpd",
       "format": "dash",
-      "thumbnail": "https://storage.googleapis.com/shaka-asset-icons/art_of_motion.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/nature.png",
       "tags": ["demo", "dash"]
     },
@@ -188,7 +188,7 @@
       "description": "Big Buck Bunny hosted on Akamai.",
       "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
       "format": "hls",
-      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/bus.png",
       "tags": ["akamai", "hls"]
     },
@@ -198,7 +198,7 @@
       "description": "Big Buck Bunny DASH via Akamai.",
       "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
       "format": "dash",
-      "thumbnail": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["akamai", "dash"]
     },
@@ -208,7 +208,7 @@
       "description": "Public test HLS stream from Mux.",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
-      "thumbnail": "https://image.mux.com/x36xhzz/thumbnail.png",
+      "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/forest.png",
       "tags": ["test", "hls"]
     }
