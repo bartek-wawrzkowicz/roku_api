@@ -111,7 +111,7 @@
         "banner": {
             "width": 1635,
             "height": 404,
-            "itemsSpacing": 15,
+            "itemsSpacing": 30,
             "bottomMargin": 65
         },
         "frame": {
