@@ -107,7 +107,7 @@
 
   "lists": {
     "leftMargin": 220,
-    "lists": {
+    "layout": {
         "banner": {
             "width": 1635,
             "height": 404,
