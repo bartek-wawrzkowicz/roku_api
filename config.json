@@ -59,7 +59,7 @@
       "lists": [
         {
           "id": "list_1",
-          "card": "round",
+          "card": "banner",
           "source": "list_1.json",
           "screen": "HOME_SCREEN"
         },
@@ -71,7 +71,7 @@
         },
         {
           "id": "list_3",
-          "card": "frame",
+          "card": "round",
           "source": "list_3.json",
           "screen": "HOME_SCREEN"
         },
