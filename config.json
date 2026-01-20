@@ -111,7 +111,7 @@
         "banner": {
             "type": "featured",
             "width": 1200,
-            "height": 675,
+            "height": 425,
             "itemsSpacing": 30,
             "bottomMargin": 65
         },
