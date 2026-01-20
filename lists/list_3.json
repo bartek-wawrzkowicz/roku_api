@@ -1,5 +1,9 @@
 {
   "listId": "list_3",
   "screen": "HOME_SCREEN",
-  "streamIds": []
+  "streamIds": [
+    "mux_test_hls",
+    "bbb_uhd_hls",
+    "angel_one_hls"
+  ]
 }
