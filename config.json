@@ -59,25 +59,25 @@
       "lists": [
         {
           "id": "list_1",
-          "layout": "round",
+          "card": "round",
           "source": "list_1.json",
           "screen": "HOME_SCREEN"
         },
         {
           "id": "list_2",
-          "layout": "frame",
+          "card": "frame",
           "source": "list_2.json",
           "screen": "HOME_SCREEN"
         },
         {
           "id": "list_3",
-          "layout": "frame",
+          "card": "frame",
           "source": "list_3.json",
           "screen": "HOME_SCREEN"
         },
         {
           "id": "list_4",
-          "layout": "frame",
+          "card": "frame",
           "source": "list_4.json",
           "screen": "HOME_SCREEN"
         }
@@ -109,7 +109,6 @@
     "leftMargin": 220,
     "cards": {
         "banner": {
-            "type": "featured",
             "width": 1200,
             "height": 425,
             "itemsSpacing": 30,
