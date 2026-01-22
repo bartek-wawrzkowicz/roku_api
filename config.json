@@ -86,7 +86,7 @@
 
     "SEARCH_SCREEN": {
       "type": "search",
-      "enabled": true
+      "enabled": false
     },
 
     "SETTINGS_SCREEN": {
@@ -98,11 +98,6 @@
       "type": "help",
       "enabled": true
     }
-  },
-
-  "features": {
-    "searchEnabled": true,
-    "settingsEnabled": true
   },
 
   "lists": {
