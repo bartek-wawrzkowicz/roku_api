@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updated": "2026-01-08",
+  "version": 5,
+  "updated": "2026-01-24",
   "streams": [
     {
       "id": "bbb_dark_truths",
@@ -16,21 +16,21 @@
       "id": "bbb_sunflower",
       "title": "Big Buck Bunny \u2013 Sunflower",
       "description": "A lighter version of Big Buck Bunny.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-sunflower-hls/hls.m3u8",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "format": "hls",
       "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/capitol.png",
       "tags": ["animation", "hls"]
     },
     {
-      "id": "sintel_hls",
-      "title": "Sintel \u2013 HLS",
-      "description": "Epic fantasy short film in HLS format.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/sintel/hls.m3u8",
-      "format": "hls",
+      "id": "sintel_dash",
+      "title": "Sintel \u2013 DASH",
+      "description": "Epic fantasy short film in DASH format.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
+      "format": "dash",
       "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
-      "tags": ["fantasy", "hls"]
+      "tags": ["fantasy", "dash"]
     },
     {
       "id": "sintel_dash",
@@ -85,8 +85,8 @@
     {
       "id": "bbb_uhd_hls",
       "title": "Big Buck Bunny \u2013 UHD",
-      "description": "Ultra HD version HLS.",
-      "streamUrl": "https://storage.googleapis.com/shaka-demo-assets/bbb-uhd/hls.m3u8",
+      "description": "Downscaled version HLS.",
+      "streamUrl": "https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.m3u8",
       "format": "hls",
       "image": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
       "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/backgrounds/field.png",
