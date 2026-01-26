@@ -1,32 +1,25 @@
 {
-    "version": 1,
-    "updated": "2026-01-05",
+    "version": 2,
+    "updated": "2026-01-26",
     "branding": {
-      "name": "codeodrive",
-      "description": "Information Technologies"
+        "name": "codeodrive",
+        "description": "Information Technologies"
     },
     "colors": {
-      "primary": "#FFA68A",
-      "primaryDark": "#E88F74",
-      "secondary": "#FFFFFF",
-      "background": "#4E4A48",
-      "backgroundDark": "#1F1D1C",
-      "surface": "#5A5654",
-      "textPrimary": "#FFFFFF",
-      "textSecondary": "#D6D3D1",
-      "textMuted": "#706E6D",
-      "border": "#6A6664",
-      "focus": "#FFA68A",
-      "error": "#D9534F",
-      "success": "#5CB85C",
-      "black": "#000000"
-    },
-    "roku": {
-      "focusColor": "#FFA68A",
-      "buttonBackground": "#5A5654",
-      "buttonText": "#FFFFFF",
-      "progressBarForeground": "#FFA68A",
-      "progressBarBackground": "#3F3C3A"
+        "primary": "#FFA68A",
+        "primaryDark": "#E88F74",
+        "secondary": "#FFFFFF",
+        "background": "#4E4A48",
+        "backgroundLight": "#C2B8B3",
+        "backgroundDark": "#1F1D1C",
+        "textPrimary": "#FFFFFF",
+        "textSecondary": "#D6D3D1",
+        "textMuted": "#706E6D",
+        "border": "#6A6664",
+        "focus": "#FFA68A",
+        "error": "#D9534F",
+        "success": "#5CB85C",
+        "black": "#000000"
     }
   }
   
