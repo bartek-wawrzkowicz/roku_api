@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "updated": "2026-01-26",
     "branding": {
         "name": "codeodrive",
@@ -7,7 +7,7 @@
     },
     "colors": {
         "primary": "#FFA68A",
-        "primaryDark": "#E88F74",
+        "primaryDark": "#D55A35",
         "secondary": "#FFFFFF",
         "background": "#4E4A48",
         "backgroundLight": "#C2B8B3",
