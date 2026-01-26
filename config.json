@@ -1,6 +1,6 @@
 {
   "backend": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "lastUpdated": "2026-01-26"
   },
 
@@ -108,19 +108,19 @@
             "width": 1200,
             "height": 425,
             "itemsSpacing": 30,
-            "bottomMargin": 90
+            "bottomMargin": 70
         },
         "frame": {
             "width": 402,
             "height": 226,
             "itemsSpacing": 30,
-            "bottomMargin": 90
+            "bottomMargin": 70
         },
         "round": {
             "width": 220,
             "height": 220,
-            "itemsSpacing": 30,
-            "bottomMargin": 90
+            "itemsSpacing": 40,
+            "bottomMargin": 70
         }
     }
   }
