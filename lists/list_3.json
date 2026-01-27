@@ -4,6 +4,13 @@
   "streamIds": [
     "mux_test_hls",
     "bbb_uhd_hls",
-    "angel_one_hls"
+    "angel_one_hls",
+    "sintel_hls",
+    "sintel_dash",
+    "mountain_sunrise_hls",
+    "tears_of_steel_mp4",
+    "angel_one_hls",
+    "elephants_dream_hls",
+    "elephants_dream_dash",
   ]
 }
