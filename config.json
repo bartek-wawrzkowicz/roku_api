@@ -1,7 +1,7 @@
 {
   "backend": {
-    "version": "1.0.3",
-    "lastUpdated": "2026-01-26"
+    "version": "1.0.4",
+    "lastUpdated": "2026-01-27"
   },
 
   "app": {
@@ -117,8 +117,8 @@
             "bottomMargin": 70
         },
         "round": {
-            "width": 220,
-            "height": 220,
+            "width": 260,
+            "height": 260,
             "itemsSpacing": 40,
             "bottomMargin": 0
         }
