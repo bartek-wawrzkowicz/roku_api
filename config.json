@@ -111,7 +111,7 @@
             "bottomMargin": 70
         },
         "frame": {
-            "width": 402,
+            "width": 392,
             "height": 226,
             "itemsSpacing": 30,
             "bottomMargin": 70
@@ -120,7 +120,7 @@
             "width": 260,
             "height": 260,
             "itemsSpacing": 40,
-            "bottomMargin": 0
+            "bottomMargin": 30
         }
     }
   }
