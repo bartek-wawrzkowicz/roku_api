@@ -120,7 +120,7 @@
             "width": 260,
             "height": 260,
             "itemsSpacing": 40,
-            "bottomMargin": 30
+            "bottomMargin": 0
         }
     }
   }
