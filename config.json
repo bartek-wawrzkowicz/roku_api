@@ -8,8 +8,7 @@
     "name": "Codeodrive",
     "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/codeodrive_background.png",
     "logo": "https://bartek-wawrzkowicz.github.io/roku_api/assets/codeodrive_logo.png",
-    "privacyPolicyLink": "https://bartek-wawrzkowicz.github.io/roku_api/privacy_policy.html",
-    "privacyPolicyQRcode": "https://bartek-wawrzkowicz.github.io/roku_api/assets/privacy_policy/qr.png"
+    "privacyPolicyLink": "https://bartek-wawrzkowicz.github.io/roku_api/privacy_policy.html"
   },
 
   "menu": {
