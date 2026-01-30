@@ -1,13 +1,15 @@
 {
   "backend": {
-    "version": "1.0.5",
-    "lastUpdated": "2026-01-28"
+    "version": "1.0.6",
+    "lastUpdated": "2026-01-30"
   },
 
   "app": {
     "name": "Codeodrive",
     "background": "https://bartek-wawrzkowicz.github.io/roku_api/assets/codeodrive_background.png",
-    "logo": "https://bartek-wawrzkowicz.github.io/roku_api/assets/codeodrive_logo.png"
+    "logo": "https://bartek-wawrzkowicz.github.io/roku_api/assets/codeodrive_logo.png",
+    "privacyPolicyLink": "https://bartek-wawrzkowicz.github.io/roku_api/privacy_policy.html",
+    "privacyPolicyQRcode": "https://bartek-wawrzkowicz.github.io/roku_api/assets/privacy_policy/qr.png"
   },
 
   "menu": {
