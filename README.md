@@ -1,6 +1,6 @@
 # codeodrive
 
-**CodeoDrive** is a JSON-based API simulation hosted on GitHub Pages. It provides a simple way to interact with various resources, including assets, lists, configuration, branding, streams, and privacy policies.
+**codeodrive** is a JSON-based API simulation hosted on GitHub Pages. It provides a simple way to interact with various resources, including assets, lists, configuration, branding, streams, and privacy policies.
 
 ## Features
 
