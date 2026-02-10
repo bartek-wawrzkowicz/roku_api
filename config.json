@@ -113,7 +113,7 @@
           "height": {
             "fhd": 425,
             "hd": 283
-          }
+          },
           "itemsSpacing": 30,
           "bottomMargin": 80
         },
@@ -125,9 +125,9 @@
           "height": {
             "fhd": 226,
             "hd": 151
-          }
-            "itemsSpacing": 30,
-            "bottomMargin": 80
+          },
+          "itemsSpacing": 30,
+          "bottomMargin": 80
         },
         "round": {
           "width": {
@@ -137,9 +137,9 @@
           "height": {
             "fhd": 300,
             "hd": 200
-          }
-            "itemsSpacing": 40,
-            "bottomMargin": 0
+          },
+          "itemsSpacing": 40,
+          "bottomMargin": 0
         }
     }
   }
