@@ -115,6 +115,7 @@
             "hd": 283
           },
           "itemsSpacing": 30,
+          "itemsVisible": 1,
           "bottomMargin": 80
         },
         "frame": {
@@ -127,6 +128,7 @@
             "hd": 151
           },
           "itemsSpacing": 30,
+          "itemsVisible": 3,
           "bottomMargin": 80
         },
         "round": {
@@ -139,6 +141,7 @@
             "hd": 200
           },
           "itemsSpacing": 40,
+          "itemsVisible": 4,
           "bottomMargin": 0
         }
     }
