@@ -106,7 +106,7 @@
     "leftMargin": 168,
     "cards": {
         "banner": {
-            "width": 1200,
+            "width": 1635,
             "height": 425,
             "itemsSpacing": 30,
             "bottomMargin": 80
@@ -118,8 +118,8 @@
             "bottomMargin": 80
         },
         "round": {
-            "width": 260,
-            "height": 260,
+            "width": 300,
+            "height": 300,
             "itemsSpacing": 40,
             "bottomMargin": 0
         }
