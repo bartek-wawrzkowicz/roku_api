@@ -106,20 +106,38 @@
     "leftMargin": 168,
     "cards": {
         "banner": {
-            "width": 1635,
-            "height": 425,
-            "itemsSpacing": 30,
-            "bottomMargin": 80
+          "width": {
+            "fhd": 1635,
+            "hd": 1090
+          },
+          "height": {
+            "fhd": 425,
+            "hd": 283
+          }
+          "itemsSpacing": 30,
+          "bottomMargin": 80
         },
         "frame": {
-            "width": 392,
-            "height": 226,
+          "width": {
+            "fhd": 392,
+            "hd": 261
+          },
+          "height": {
+            "fhd": 226,
+            "hd": 151
+          }
             "itemsSpacing": 30,
             "bottomMargin": 80
         },
         "round": {
-            "width": 300,
-            "height": 300,
+          "width": {
+            "fhd": 300,
+            "hd": 200
+          },
+          "height": {
+            "fhd": 300,
+            "hd": 200
+          }
             "itemsSpacing": 40,
             "bottomMargin": 0
         }
