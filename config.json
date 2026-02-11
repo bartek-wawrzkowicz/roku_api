@@ -108,11 +108,11 @@
         "banner": {
           "width": {
             "fhd": 1635,
-            "hd": 1090
+            "hd": 1024
           },
           "height": {
             "fhd": 425,
-            "hd": 283
+            "hd": 266
           },
           "itemsSpacing": 30,
           "itemsVisible": 1,
